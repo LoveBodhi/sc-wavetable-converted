@@ -1,0 +1,1 @@
+Stereo Wavetables are prefixed with "S-".
